@@ -1,0 +1,5 @@
+Pandas
+NumPy
+Sci-kit learn
+nltk
+String
